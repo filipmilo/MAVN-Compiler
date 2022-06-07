@@ -1,0 +1,20 @@
+	
+
+				
+
+
+				GRAMATIKA RA 193\2019
+
+	|---------------------------------------------------------------------|	
+	| Q -> S ; L  | S -> _mem mid num | L -> eof | E -> la rid, mid       |
+	|             | S -> _reg rid     | L -> Q   | E -> bltz rid, id      |
+	|             | S -> _func id     |          | E -> sub rid, rid, rid |
+	|             | S -> id: E        |          | E -> lw rid, num(rid)  |
+	|             | S -> E            |          | E -> add rid, rid, rid |
+	|             |                   |          | E -> b id              |
+	|             |                   |          | E -> and rid, rid, rid |
+	|             |                   |          | E -> not rid, rid      |
+	|             |                   |          | E -> srl rid, rid, num |
+	|             |                   |          | E -> sll rid, rid, num |
+	|---------------------------------------------------------------------|
+ 

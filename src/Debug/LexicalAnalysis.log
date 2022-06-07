@@ -1,0 +1,12 @@
+﻿  FiniteStateMachine.cpp
+  IR.cpp
+  LexicalAnalysis.cpp
+  LivenessAnalysis.cpp
+  RecourseAllocation.cpp
+D:\SPPURV\PROJEKAT\SPPuRV1_Project\src\RecourseAllocation.cpp(18,22): warning C4018: '<': signed/unsigned mismatch
+  SyntaxAnalysis.cpp
+  Token.cpp
+  main.cpp
+  Generating Code...
+D:\SPPURV\PROJEKAT\SPPuRV1_Project\src\RecourseAllocation.cpp(74): warning C4715: 'findInterference': not all control paths return a value
+  LexicalAnalysis.vcxproj -> D:\SPPURV\PROJEKAT\SPPuRV1_Project\src\Debug\LexicalAnalysis.exe

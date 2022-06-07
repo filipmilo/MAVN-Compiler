@@ -1,0 +1,2 @@
+D:\SPPURV\PROJEKAT\SPPuRV1_Project\src\Debug\LexicalAnalysis.exe
+D:\SPPURV\PROJEKAT\SPPuRV1_Project\src\Debug\LexicalAnalysis.pdb
